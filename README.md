@@ -10,6 +10,7 @@
  - `extract_alnscore_genewise.py`  Extract spliced alignment scores and get final de novo gene candidates
 
 ## 2. trRosetta
+ - `fasta2seq.py`  Python script to handle protein/DNA sequence files
  - `build_MSA.py`  To search through different protein sequence database and generate multiple sequence alignments (MSA).
  - `reformat.py`  To extract sub-regions of MSA
  - `trRosetta.sh`  To run trRosetta predictions
