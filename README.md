@@ -17,3 +17,4 @@
 
 ## 3. MDsimulations
  - `densitypeaks.py`  To perform density-peaks clustering on MD trajectories
+ - `densitypeaks.combineReps.py`  To perform density-peaks clustering on MD trajectories
